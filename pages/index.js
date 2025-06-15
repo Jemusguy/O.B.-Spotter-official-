@@ -2,7 +2,7 @@ import React from "react";
 
 export default function OBSpotterPage() {
   return (
-    <div className="bg-black text-white min-h-screen font-sans">
+    <div className="bg-gray-100 text-white min-h-screen font-sans">
       <header className="flex flex-col items-center justify-center py-8">
         <img
           src="/O_B_Spotter_Logo_Broderie_Impression.png"
